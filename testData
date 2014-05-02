@@ -1,0 +1,116 @@
+------------------------------------------------------------------------
+------------------------------ Tests 1 ---------------------------------
+------------------------------------------------------------------------
+
+
+--------------------------- Data Size: 100 -----------------------------
+--------------------------- Test Count: 500 ----------------------------
+
+Insert sort took on average 0.00044 seconds to sort data of size 100.
+Bubble sort took on average 0.00198 seconds to sort data of size 100.
+Select sort took on average 0.00044 seconds to sort data of size 100.
+Merge sort took on average 0.00036 seconds to sort data of size 100.
+Quick sort took on average 0.00022 seconds to sort data of size 100.
+Heap sort took on average 6e-05 seconds to sort data of size 100.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.00022 seconds to sort data of size 100.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 0.0003 seconds to sort data of size 100.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.00034 seconds to sort data of size 100.
+
+--------------------------- Data Size: 1000 -----------------------------
+--------------------------- Test Count: 100 -----------------------------
+
+Insert sort took on average 0.0654 seconds to sort data of size 1000.
+Bubble sort took on average 0.1745 seconds to sort data of size 1000.
+Select sort took on average 0.067 seconds to sort data of size 1000.
+Merge sort took on average 0.0054 seconds to sort data of size 1000.
+Quick sort took on average 0.0041 seconds to sort data of size 1000.
+Heap sort took on average 0.0005 seconds to sort data of size 1000.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.0032 seconds to sort data of size 1000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 0.0043 seconds to sort data of size 1000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.0049 seconds to sort data of size 1000.
+
+--------------------------- Data Size: 10000 -----------------------------
+---------------------------- Test Count: 20 ------------------------------
+
+Insert sort took on average 6.746 seconds to sort data of size 10000.
+Bubble sort took on average 18.0125 seconds to sort data of size 10000.
+Select sort took on average 6.6815 seconds to sort data of size 10000.
+Merge sort took on average 0.073 seconds to sort data of size 10000.
+Quick sort took on average 0.0475 seconds to sort data of size 10000.
+Heap sort took on average 0.0055 seconds to sort data of size 10000.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.0575 seconds to sort data of size 10000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 0.0785 seconds to sort data of size 10000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.0705 seconds to sort data of size 10000.
+
+------------------------------------------------------------------------
+----------------------------- Tests 1 end ------------------------------
+------------------------------------------------------------------------
+
+
+------------------------------------------------------------------------
+------------------------------ Tests 2 ---------------------------------
+------------------------------------------------------------------------
+
+--------------------------- Data Size: 100 -----------------------------
+-------------------------- Test Count: 2000 ----------------------------
+
+Merge sort took on average 0.000545 seconds to sort data of size 100.
+Quick sort took on average 0.000265 seconds to sort data of size 100.
+Heap sort took on average 2.99e-05 seconds to sort data of size 100.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.00022 seconds to sort data of size 100.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 0.00023 seconds to sort data of size 100.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.00023 seconds to sort data of size 100.
+
+--------------------------- Data Size: 1000 -----------------------------
+--------------------------- Test Count: 1000 ----------------------------
+
+Merge sort took on average 0.00583 seconds to sort data of size 1000.
+Quick sort took on average 0.00391 seconds to sort data of size 1000.
+Heap sort took on average 0.00049 seconds to sort data of size 1000.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.00395 seconds to sort data of size 1000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 0.0044 seconds to sort data of size 1000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.0046 seconds to sort data of size 1000.
+
+--------------------------- Data Size: 10000 -----------------------------
+--------------------------- Test Count: 1000 -----------------------------
+
+Merge sort took on average 0.07652 seconds to sort data of size 10000.
+Quick sort took on average 0.04614 seconds to sort data of size 10000.
+Heap sort took on average 0.00729 seconds to sort data of size 10000.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.05893 seconds to sort data of size 10000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 0.07489 seconds to sort data of size 10000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.07086 seconds to sort data of size 10000.
+
+--------------------------- Data Size: 100000 -----------------------------
+---------------------------- Test Count: 300 ------------------------------
+
+Merge sort took on average 0.94264 seconds to sort data of size 100000.
+Quick sort took on average 0.54363 seconds to sort data of size 100000.
+Heap sort took on average 0.0932 seconds to sort data of size 100000.
+Shell sort with gaps [.., 701, 301, 132, 57, 23, 10, 4, 1] took on average 0.78774 seconds to sort data of size 100000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 1.22333 seconds to sort data of size 100000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 0.98157 seconds to sort data of size 100000.
+
+--------------------------- Data Size: 1000000 -----------------------------
+----------------------------- Test Count: 5 --------------------------------
+
+Merge sort took on average 14.376 seconds to sort data of size 1000000.
+Quick sort took on average 7.914 seconds to sort data of size 1000000.
+Heap sort took on average 1.988 seconds to sort data of size 1000000.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 11.004 seconds to sort data of size 1000000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 22.378 seconds to sort data of size 1000000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 15.344 seconds to sort data of size 1000000.
+
+--------------------------- Data Size: 10000000 -----------------------------
+------------------------------ Test Count: 1 --------------------------------
+
+Merge sort took on average 176.48 seconds to sort data of size 10000000.
+Quick sort took on average 105.81 seconds to sort data of size 10000000.
+Heap sort took on average 34.13 seconds to sort data of size 10000000.
+Shell sort with gaps [..., 701, 301, 132, 57, 23, 10, 4, 1] took on average 142.09 seconds to sort data of size 10000000.
+Shell sort with gaps [65535, 32767, 16383, 8191, 4095, 2047, 1023, 511, 255, 127, 63, 31, 15, 7, 3, 1] took on average 492.83 seconds to sort data of size 10000000.
+Shell sort with gaps [65921, 16577, 4193, 1073, 281, 77, 23, 8, 1] took on average 351.9 seconds to sort data of size 10000000.
+
+------------------------------------------------------------------------
+----------------------------- Tests 2 end ------------------------------
+------------------------------------------------------------------------
